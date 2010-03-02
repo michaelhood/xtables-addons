@@ -14,6 +14,7 @@ build_SYSRQ=m
 build_TARPIT=m
 build_TEE=
 build_condition=m
+build_expr=m
 build_fuzzy=m
 build_geoip=m
 build_gradm=m
